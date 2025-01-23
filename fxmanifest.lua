@@ -1,0 +1,7 @@
+fx_version 'cerulean'
+game 'gta5'
+lua54 'yes'
+author 'https://github.com/Pintta/Broken-PizzaChef'
+description 'Broken-PizzaChef'
+client_script 'client.lua'
+server_script 'server.lua'
